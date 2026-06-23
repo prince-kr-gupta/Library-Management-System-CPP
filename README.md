@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 📚 Library Management System in C++
 
 This is a simple console-based Library Management System developed in C++ using Object-Oriented Programming (OOP) concepts and file handling.
@@ -69,4 +69,4 @@ This project represents one of my early C++ projects and an important step in my
 =======
 # Library-Management-System-CPP
 A simple console-based Library Management System built using C++ and File Handling.
->>>>>>> e418e5dd28e8be1033125665d83532bfbe8990e8
+
