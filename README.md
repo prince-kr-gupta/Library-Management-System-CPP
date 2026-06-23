@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📚 Library Management System in C++
 
 This is a simple console-based Library Management System developed in C++ using Object-Oriented Programming (OOP) concepts and file handling.
@@ -65,3 +66,7 @@ Prince Kumar Gupta
  Computer Science Engineering Student
 
 This project represents one of my early C++ projects and an important step in my programming journey. More improvements and projects will be added as I continue learning and building.
+=======
+# Library-Management-System-CPP
+A simple console-based Library Management System built using C++ and File Handling.
+>>>>>>> e418e5dd28e8be1033125665d83532bfbe8990e8
